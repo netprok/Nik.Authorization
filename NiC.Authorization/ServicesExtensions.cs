@@ -6,7 +6,7 @@ namespace NiC.Authorization;
 
 internal static class ServicesExtensions
 {
-    public static IServiceCollection AddAuthorization(this IServiceCollection services)
+    public static IServiceCollection AddNiCAuthorization(this IServiceCollection services)
     {
         services.AddScoped<IUserLoader, UserLoader>();
         services.AddScoped<IAuthorizer, Authorizer>();
