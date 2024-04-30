@@ -1,0 +1,12 @@
+﻿global using System;
+global using System.Linq;
+global using System.Runtime.CompilerServices;
+global using System.Threading.Tasks;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using MongoDB.Driver;
+global using NiC.Authorization.Abstractions;
+global using NiC.Authorization.Models.Db;
+global using NiC.Authorization.Models.Dtos;
+global using NiC.Authorization.Models.Entities;

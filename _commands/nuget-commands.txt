@@ -1,0 +1,5 @@
+dotnet pack -c Release -p:Version=1.0.0
+
+nuget add '.\NiC.Authorization\bin\Release\NiC.Authorization.1.0.0.nupkg' -source 'D:\OneDrive\Software Development\nic-nuget-package-source'
+nuget add '.\NiC.Authorization.Abstractions\bin\Release\NiC.Authorization.Abstractions.1.0.0.nupkg' -source 'D:\OneDrive\Software Development\nic-nuget-package-source'
+nuget add '.\NiC.Authorization.Models\bin\Release\NiC.Authorization.Models.1.0.0.nupkg' -source 'D:\OneDrive\Software Development\nic-nuget-package-source'
