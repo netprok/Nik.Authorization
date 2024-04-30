@@ -1,6 +1,6 @@
-﻿[assembly: InternalsVisibleTo("NiC.Authentication.Seeder")]
-[assembly: InternalsVisibleTo("NiC.Authentication.Api")]
-[assembly: InternalsVisibleTo("NiC.Authentication.UnitTests")]
+﻿[assembly: InternalsVisibleTo("NiC.Authorization.Seeder")]
+[assembly: InternalsVisibleTo("NiC.Authorization.Api")]
+[assembly: InternalsVisibleTo("NiC.Authorization.UnitTests")]
 
 namespace NiC.Authorization;
 
