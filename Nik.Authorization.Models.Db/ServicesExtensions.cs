@@ -3,7 +3,7 @@
 public static class ServicesExtensions
 {
     private const string AuthorizationConnectionSettingsName = "AuthorizationMongoDB";
-    private const string AuthorizationDbSettingsName = "DatabaseSettings:DatabaseName";
+    private const string AuthorizationDbSettingsName = "DatabaseSettings:AuthorizationDatabaseName";
 
     public static IServiceCollection ConfigureNikAuthorizationMongoDb(this IServiceCollection services)
     {
