@@ -1,4 +1,4 @@
-﻿namespace NiC.Authorization.Models.Dtos;
+﻿namespace Nik.Authorization.Models.Dtos;
 
 public sealed class AuthorizeModel
 {

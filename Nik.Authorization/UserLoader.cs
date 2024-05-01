@@ -1,4 +1,4 @@
-﻿namespace NiC.Authorization;
+﻿namespace Nik.Authorization;
 
 public sealed class UserLoader(AuthorizationDbContext dbContext) : IUserLoader
 {

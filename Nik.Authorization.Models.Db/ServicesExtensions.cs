@@ -1,4 +1,4 @@
-﻿namespace NiC.Authorization.Models.Db;
+﻿namespace Nik.Authorization.Models.Db;
 
 public static class ServicesExtensions
 {

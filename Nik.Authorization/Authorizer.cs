@@ -1,4 +1,4 @@
-﻿namespace NiC.Authorization;
+﻿namespace Nik.Authorization;
 
 internal sealed class Authorizer(
     IUserLoader userLoader,

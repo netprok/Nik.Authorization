@@ -1,4 +1,4 @@
-﻿namespace NiC.Authorization.Models.Entities;
+﻿namespace Nik.Authorization.Models.Entities;
 
 public sealed class Permission
 {

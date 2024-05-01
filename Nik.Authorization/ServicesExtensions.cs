@@ -1,8 +1,8 @@
-﻿[assembly: InternalsVisibleTo("NiC.Authorization.Seeder")]
-[assembly: InternalsVisibleTo("NiC.Authorization.Api")]
-[assembly: InternalsVisibleTo("NiC.Authorization.UnitTests")]
+﻿[assembly: InternalsVisibleTo("Nik.Authorization.Seeder")]
+[assembly: InternalsVisibleTo("Nik.Authorization.Api")]
+[assembly: InternalsVisibleTo("Nik.Authorization.UnitTests")]
 
-namespace NiC.Authorization;
+namespace Nik.Authorization;
 
 internal static class ServicesExtensions
 {

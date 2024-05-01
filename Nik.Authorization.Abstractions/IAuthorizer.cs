@@ -1,4 +1,4 @@
-﻿namespace NiC.Authorization.Abstractions;
+﻿namespace Nik.Authorization.Abstractions;
 
 public interface IAuthorizer
 {

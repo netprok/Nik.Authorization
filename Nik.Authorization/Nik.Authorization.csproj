@@ -25,9 +25,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NiC.Authorization.Abstractions\NiC.Authorization.Abstractions.csproj" />
-    <ProjectReference Include="..\NiC.Authorization.Models.Db\NiC.Authorization.Models.Db.csproj" />
-    <ProjectReference Include="..\NiC.Authorization.Models\NiC.Authorization.Models.csproj" />
+    <ProjectReference Include="..\Nik.Authorization.Abstractions\Nik.Authorization.Abstractions.csproj" />
+    <ProjectReference Include="..\Nik.Authorization.Models.Db\Nik.Authorization.Models.Db.csproj" />
+    <ProjectReference Include="..\Nik.Authorization.Models\Nik.Authorization.Models.csproj" />
   </ItemGroup>
 
 </Project>

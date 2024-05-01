@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NiC.Authorization.Models\NiC.Authorization.Models.csproj" />
+    <ProjectReference Include="..\Nik.Authorization.Models\Nik.Authorization.Models.csproj" />
   </ItemGroup>
 
 </Project>
